@@ -1,0 +1,24 @@
+train:  473 files
+val  :  131 files
+test :  127 files
+OK -- no file overlap between splits
+OK -- 356 collectors, each in exactly one split
+
+class                               train        val       test
+----------------------------------------------------------------
+bell_ringing                       1.34%     1.26%     1.06%
+coffee_machine                     5.21%     4.33%     4.61%
+cutlery_dishes                     7.88%     6.71%     6.61%
+door_open_close                    4.63%     3.24%     4.08%
+footsteps                         13.97%    12.35%    11.93%
+keyboard_typing                    8.86%     7.64%     7.44%
+keychain                           5.42%     3.64%     5.18%
+light_switch                       0.44%     0.41%     0.46%
+microwave                          8.04%     6.90%     6.68%
+phone_ringing                      6.91%     5.47%     5.96%
+running_water                     15.02%    12.54%    12.00%
+toilet_flushing                    2.76%     3.87%     4.19%
+vacuum_cleaner                     8.15%     6.97%     6.89%
+wardrobe_drawer_open_close         2.89%     2.62%     2.53%
+window_open_close                  1.77%     1.50%     1.43%
+segments per split                 22335      5652      5657
